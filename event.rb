@@ -3,7 +3,7 @@ class Event
   def initialize(name, detail, venue, date)
     @name   = name
     @detail = detail
-    @venue  = venue 
+    @venue  = venue
     @date   = date
   end
 end
